@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/esperanto/static/js/runtime~main.a5c8dc16.js"
   },
   {
-    "revision": "222c849994502e83ed7f",
+    "revision": "880371d407e3204a685f",
     "url": "/esperanto/static/js/main.41fcc737.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/esperanto/static/js/2.98d3d24b.chunk.js"
   },
   {
-    "revision": "222c849994502e83ed7f",
-    "url": "/esperanto/static/css/main.15894216.chunk.css"
+    "revision": "880371d407e3204a685f",
+    "url": "/esperanto/static/css/main.ba764871.chunk.css"
   },
   {
-    "revision": "02d4ada5fd9dbb70f8950da6e8a3aa88",
+    "revision": "9944520f76f674ff984f4af498afa2ea",
     "url": "/esperanto/index.html"
   }
 ];
