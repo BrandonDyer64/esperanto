@@ -1,14 +1,14 @@
 {
-  "main.css": "/esperanto/static/css/main.2a4f7d21.chunk.css",
-  "main.js": "/esperanto/static/js/main.46640467.chunk.js",
-  "main.js.map": "/esperanto/static/js/main.46640467.chunk.js.map",
-  "runtime~main.js": "/esperanto/static/js/runtime~main.a5c8dc16.js",
-  "runtime~main.js.map": "/esperanto/static/js/runtime~main.a5c8dc16.js.map",
-  "static/js/2.3dd3cfe8.chunk.js": "/esperanto/static/js/2.3dd3cfe8.chunk.js",
-  "static/js/2.3dd3cfe8.chunk.js.map": "/esperanto/static/js/2.3dd3cfe8.chunk.js.map",
-  "index.html": "/esperanto/index.html",
-  "precache-manifest.56998da1a012ae21d07fde9bead6618b.js": "/esperanto/precache-manifest.56998da1a012ae21d07fde9bead6618b.js",
-  "service-worker.js": "/esperanto/service-worker.js",
-  "static/css/main.2a4f7d21.chunk.css.map": "/esperanto/static/css/main.2a4f7d21.chunk.css.map",
-  "static/media/logo.png": "/esperanto/static/media/logo.f47058d3.png"
+  "main.css": "/static/css/main.2a4f7d21.chunk.css",
+  "main.js": "/static/js/main.137416af.chunk.js",
+  "main.js.map": "/static/js/main.137416af.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.3dd3cfe8.chunk.js": "/static/js/2.3dd3cfe8.chunk.js",
+  "static/js/2.3dd3cfe8.chunk.js.map": "/static/js/2.3dd3cfe8.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.50236c68daa02f07e37e9af4b0939f99.js": "/precache-manifest.50236c68daa02f07e37e9af4b0939f99.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.2a4f7d21.chunk.css.map": "/static/css/main.2a4f7d21.chunk.css.map",
+  "static/media/logo.png": "/static/media/logo.f47058d3.png"
 }
