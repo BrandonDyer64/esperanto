@@ -75,6 +75,14 @@ code {
   background-color: var(--primary-dark) !important;
 }
 
+.navbar-brand a {
+  color: var(--dark);
+}
+
+.navbar-brand a:hover {
+  text-decoration: none;
+}
+
 .nav-link {
   margin: 0.6rem;
 }
@@ -85,6 +93,31 @@ code {
 
 .navbar-dark .navbar-toggler {
   border-color: #00000000;
+}
+
+.navbar-nav .dropdown .dropdown-toggle {
+  border: 2px lightgray solid;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.dropdown-menu {
+  border: 2px lightgray solid;
+  border-radius: 0px;
+  padding: 0px;
+}
+
+.dropdown-item {
+  border-radius: 0px !important;
+}
+
+.dropdown-item:hover {
+  background-color: var(--nubo);
+}
+
+.dropdown-item.active {
+  background-color: lightgray;
+  color: black;
 }
 
 .form-control {
