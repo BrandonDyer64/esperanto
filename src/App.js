@@ -4,7 +4,9 @@ import Navbaro from './Aferoj/Navbaro'
 import Sekcio from './Aferoj/Sekcio'
 import './Stiloj/App.css'
 
-import cxefoj from './Okazejoj'
+import Hejmo from './Pagxoj/Hejmo'
+
+import cxenoj from './Okazejoj'
 
 class App extends Component {
   constructor(props) {
@@ -16,9 +18,8 @@ class App extends Component {
   }
 
   fiksuLingvon(k) {
-    cxefoj.setLanguage(k)
+    cxenoj.setLanguage(k)
     localStorage.setItem('okazejo', k)
-    console.log(cxefoj.hejmo)
     this.setState({})
   }
 
@@ -26,7 +27,8 @@ class App extends Component {
     return (
       <Router>
         <>
-          <Navbaro fiksuLingvon={this.fiksuLingvon} />
+          <Navbaro fiksuLingvon={k => this.fiksuLingvon(k)} />
+          <Route exact path='/' component={Hejmo} />
         </>
       </Router>
     )

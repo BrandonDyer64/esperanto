@@ -13,7 +13,7 @@ import { Link } from 'react-router-dom'
 
 import Logo from '../logo.png'
 
-import cxefoj from '../Okazejoj'
+import cxenoj from '../Okazejoj'
 
 export default class Navbaro extends React.Component {
   render() {

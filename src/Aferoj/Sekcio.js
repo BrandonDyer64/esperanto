@@ -5,7 +5,7 @@ export default props => {
   return (
     <section
       style={{
-        paddingTop: '2rem',
+        paddingTop: '3rem',
         paddingBottom: '2rem',
         backgroundColor: props.dark ? 'var(--primary)' : 'var(--light)',
         color: props.dark ? 'var(--light)' : 'var(--dark)'

@@ -12,12 +12,13 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.8"
   },
-  "homepage": "https://bunnyisme.github.io/esperanto",
+  "homepage": "https://eo.viav.app",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "postbuild": "react-snap",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -29,5 +30,16 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "react-snap": "^1.23.0"
+  },
+  "reactSnapshot": {
+    "include": [
+      "/",
+      "/hejmo",
+      "/pri",
+      "/kial"
+    ]
+  }
 }

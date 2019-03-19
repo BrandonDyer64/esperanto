@@ -1,9 +1,12 @@
 {
   "okazejo": "Français",
-  "esperantujo": "Espéranto",
+  "esperantujo": "L'espéranto",
   "lingvo": "Langue",
   "hejmo": "La maison",
   "pri": "À propos de",
   "kial": "Pourquoi",
-  "lerni": "Apprendre"
+  "lerni": "Apprendre",
+
+  "KialEsperanto": "Pourquoi l'espéranto?",
+  "Citajxo": "« L’idée interne de l’espéranto est, sur la base d'une langue neutre, de détruire les murs entre les populations et de rapprocher les êtres humains pour que chacun d'eux voie dans son prochain seulement un être humain et un frère. »"
 }
