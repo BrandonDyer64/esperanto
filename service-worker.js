@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/esperanto/precache-manifest.8888b5ed28abd9a185d4ba3b125d3631.js"
+  "/esperanto/precache-manifest.bea0752988398c71e4bfafa7d8fb70ad.js"
 );
 
 workbox.clientsClaim();
