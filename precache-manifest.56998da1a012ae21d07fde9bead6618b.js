@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/esperanto/static/css/main.2a4f7d21.chunk.css"
   },
   {
-    "revision": "ab338df10ceaa377e0f81ee136844ad3",
+    "revision": "ecbff108895e243271db319a1a2814d1",
     "url": "/esperanto/index.html"
   }
 ];
