@@ -1,14 +1,14 @@
 {
-  "main.css": "/esperanto/static/css/main.ba764871.chunk.css",
-  "main.js": "/esperanto/static/js/main.41fcc737.chunk.js",
-  "main.js.map": "/esperanto/static/js/main.41fcc737.chunk.js.map",
+  "main.css": "/esperanto/static/css/main.91c073bd.chunk.css",
+  "main.js": "/esperanto/static/js/main.ce11c5b2.chunk.js",
+  "main.js.map": "/esperanto/static/js/main.ce11c5b2.chunk.js.map",
   "runtime~main.js": "/esperanto/static/js/runtime~main.a5c8dc16.js",
   "runtime~main.js.map": "/esperanto/static/js/runtime~main.a5c8dc16.js.map",
-  "static/js/2.98d3d24b.chunk.js": "/esperanto/static/js/2.98d3d24b.chunk.js",
-  "static/js/2.98d3d24b.chunk.js.map": "/esperanto/static/js/2.98d3d24b.chunk.js.map",
+  "static/js/2.bc5a32d5.chunk.js": "/esperanto/static/js/2.bc5a32d5.chunk.js",
+  "static/js/2.bc5a32d5.chunk.js.map": "/esperanto/static/js/2.bc5a32d5.chunk.js.map",
   "index.html": "/esperanto/index.html",
-  "precache-manifest.c221d5568093e0857bf8860b1da3c028.js": "/esperanto/precache-manifest.c221d5568093e0857bf8860b1da3c028.js",
+  "precache-manifest.aba46e22f5be97fd7e7235df7ff4056e.js": "/esperanto/precache-manifest.aba46e22f5be97fd7e7235df7ff4056e.js",
   "service-worker.js": "/esperanto/service-worker.js",
-  "static/css/main.ba764871.chunk.css.map": "/esperanto/static/css/main.ba764871.chunk.css.map",
+  "static/css/main.91c073bd.chunk.css.map": "/esperanto/static/css/main.91c073bd.chunk.css.map",
   "static/media/logo.png": "/esperanto/static/media/logo.f47058d3.png"
 }
