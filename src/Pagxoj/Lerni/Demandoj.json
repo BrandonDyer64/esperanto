@@ -1,0 +1,14 @@
+[
+  {
+    "nomo": "saluton",
+    "pritakso": 0,
+    "tipo": "traduko",
+    "elektoj": ["saluton", "adiaux", "kielViFartas", "miaNomoEstas"]
+  },
+  {
+    "nomo": "kielViFartas",
+    "pritakso": 1,
+    "tipo": "traduko",
+    "elektoj": ["kielViFartas", "saluton", "miaNomoEstas", "salutonAlCxiuj"]
+  }
+]

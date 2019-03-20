@@ -35,6 +35,23 @@ export default () => {
           margin: '0px'
         }}
       />
+      <div
+        style={{
+          width: '100%',
+          position: 'absolute',
+          top: '50%',
+          left: '0',
+          textAlign: 'center',
+          fontWeight: 'bold',
+          fontSize: '3em',
+          boxSizing: 'border-box',
+          color: 'white',
+          textShadow:
+            '1px 1px 0 #000,-1px 1px 0 #000,1px -1px 0 #000,-1px -1px 0 #000,0px 1px 0 #000,0px -1px 0 #000,-1px 0px 0 #000,1px 0px 0 #000,2px 2px 0 #000,-2px 2px 0 #000,2px -2px 0 #000,-2px -2px 0 #000,0px 2px 0 #000,0px -2px 0 #000,-2px 0px 0 #000,2px 0px 0 #000,1px 2px 0 #000,-1px 2px 0 #000,1px -2px 0 #000,-1px -2px 0 #000,2px 1px 0 #000,-2px 1px 0 #000,2px -1px 0 #000,-2px -1px 0 #000'
+        }}
+      >
+        Saluton!
+      </div>
     </div>
   )
 }
