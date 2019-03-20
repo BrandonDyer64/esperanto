@@ -5,6 +5,7 @@ import Sekcio from './Aferoj/Sekcio'
 import './Stiloj/App.css'
 
 import Hejmo from './Pagxoj/Hejmo'
+import Lerni from './Pagxoj/Lerni'
 
 import cxenoj from './Okazejoj'
 
@@ -29,6 +30,7 @@ class App extends Component {
         <>
           <Navbaro fiksuLingvon={k => this.fiksuLingvon(k)} />
           <Route exact path='/' component={Hejmo} />
+          <Route path='/lerni' component={Lerni} />
         </>
       </Router>
     )

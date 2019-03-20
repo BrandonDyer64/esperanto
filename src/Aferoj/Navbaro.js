@@ -11,8 +11,6 @@ import {
 
 import { Link } from 'react-router-dom'
 
-import Noscript from '../Noscript'
-
 import Logo from '../logo.png'
 
 import cxenoj from '../Okazejoj'
@@ -27,7 +25,7 @@ export default class Navbaro extends React.Component {
   }
   render() {
     return (
-      <Navbar bg='light' expand='lg' variant='light'>
+      <Navbar bg='light' expand='md' variant='light'>
         <Container>
           <Navbar.Brand>
             <Link to='/'>{cxenoj.esperantujo}</Link>
@@ -55,16 +53,16 @@ export default class Navbaro extends React.Component {
                 {cxenoj.kial}
               </Link>
               <Form inline>
-                <a
-                  href='https://lernu.net'
+                <Link
+                  to='/lerni'
                   className='btn btn-depth btn-primary'
-                  target='_blank'
+                  id='lerniNavButton'
                   style={{
                     marginLeft: '1.1rem'
                   }}
                 >
                   {cxenoj.lerni}
-                </a>
+                </Link>
               </Form>
             </Nav>
           </Navbar.Collapse>

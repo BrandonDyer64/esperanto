@@ -3,13 +3,11 @@ import ReactDOM from 'react-dom'
 import './Stiloj/Cxefo.css'
 import App from './App'
 import * as serviceWorker from './serviceWorker'
-import noscript from './Noscript'
 
 const rootElement = document.getElementById('root')
 if (rootElement.hasChildNodes()) {
   ReactDOM.hydrate(<App />, document.getElementById('root'))
 } else {
-  noscript.test = true
   ReactDOM.render(<App />, document.getElementById('root'))
 }
 
