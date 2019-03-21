@@ -13,9 +13,9 @@ export default class Hejmo extends React.Component {
   }
   render() {
     return (
-      <Container className='lerniContainer'>
+      <div className='lerniContainer'>
         <Demando />
-      </Container>
+      </div>
     )
   }
 }

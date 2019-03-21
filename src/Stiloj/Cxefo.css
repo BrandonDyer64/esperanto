@@ -13,12 +13,13 @@
   --purple-dark: #8e44ad;
   --nubo: #ecf0f1;
   --argxenta: #bdc3c7;
-  --nokto: #2c3e50;
+  --nokto: #34495e;
+  --nokto-dark: #2c3e50;
   --primary: var(--teal);
   --primary-dark: var(--teal-dark);
   --secondary: var(--blue);
   --secondary-dark: var(--blue-dark);
-  --dark: var(--nokto);
+  --dark: var(--nokto-dark);
   --light: #f8f9fa;
   --success: var(--green);
   --success-dark: var(--green-dark);
@@ -30,7 +31,8 @@
   --danger-dark: var(--red-dark);
 }
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Signika:700,300,600');
 
 #root {
   height: 100% !important;
@@ -43,7 +45,8 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--primary);
