@@ -3,12 +3,12 @@
     "nomo": "saluton",
     "pritakso": 0,
     "tipo": "traduko",
-    "elektoj": ["saluton", "adiaux", "kielViFartas", "miaNomoEstas"]
+    "elektoj": ["adiaux", "kielViFartas", "miaNomoEstas"]
   },
   {
     "nomo": "kielViFartas",
     "pritakso": 1,
     "tipo": "traduko",
-    "elektoj": ["kielViFartas", "saluton", "miaNomoEstas", "salutonAlCxiuj"]
+    "elektoj": ["saluton", "miaNomoEstas", "salutonAlCxiuj"]
   }
 ]

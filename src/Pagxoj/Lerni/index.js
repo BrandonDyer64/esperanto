@@ -10,12 +10,11 @@ import Demando from './Demando'
 export default class Hejmo extends React.Component {
   constructor(props) {
     super(props)
+    this.state = {
+      demando: <Demando />
+    }
   }
   render() {
-    return (
-      <div className='lerniContainer'>
-        <Demando />
-      </div>
-    )
+    return <div className='lerniContainer'>{this.state.demando}</div>
   }
 }

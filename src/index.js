@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom'
 import './Stiloj/Cxefo.css'
 import App from './App'
 import * as serviceWorker from './serviceWorker'
+import ReactGA from 'react-ga'
+
+ReactGA.initialize('UA-000000-01')
+ReactGA.pageview(window.location.pathname + window.location.search)
 
 const rootElement = document.getElementById('root')
 if (rootElement.hasChildNodes()) {

@@ -55,7 +55,7 @@ export default class Navbaro extends React.Component {
               <Form inline>
                 <Link
                   to='/lerni'
-                  className='btn btn-depth btn-primary'
+                  className='btn btn-depth btn-primary jsonly'
                   id='lerniNavButton'
                   style={{
                     marginLeft: '1.1rem'
